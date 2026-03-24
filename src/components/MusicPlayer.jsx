@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 
 const PLAYLIST = [
   { url: 'https://youtu.be/sRT1-LplOPs?si=fTqnJ4mpSy-BnN82', title: 'เพลงที่ 1' },
-  { url: 'https://youtu.be/sRT1-LplOPs?si=PGUKAqMZISaYRVFk', title: 'เพลงที่ 2' },
+  { url: 'https://youtu.be/Ufv5CvoV91k?si=xT0GxIpit6qsPJyJ', title: 'เพลงที่ 2' },
 ]
 
 function extractYTId(url) {
